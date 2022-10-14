@@ -1,5 +1,5 @@
 # interaction
-## Dataset: supply link to data file
+## Dataset: add link to data file
 
 ## Description
 Data collected from journals (original research only) currently in the best quartile (Q1) of Cell Biology category from https://www.scimagojr.com/, also included Cell and Nature (more general) 
